@@ -10,9 +10,9 @@
 societyName={Название созданного сообщества}
 
 #VK API CONFIG
-vk.api.base=https://api.vk.com/method/
-vk.api.version={выбранная верси VK API (рекомендуется 5.90)}
-vk.api.token={токен, полученный в разделе сообщества: управление/Работа с API/Ключи доступа}
+vk.api.base=https://api.vk.com/method/\n
+vk.api.version={выбранная верси VK API (рекомендуется 5.90)}\n
+vk.api.token={токен, полученный в разделе сообщества: управление/Работа с API/Ключи доступа}\n
 vk.api.confirmationCode={код подтверждения адреса сервера, указанный в разделе сообщества: управление/Работа с API/Callback Api}
 
 3) Запустить приложение.
