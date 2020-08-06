@@ -5,7 +5,7 @@
 1) Создать сообщество Вконтакте.
 2) Подключить Callback API в соответствии с инструкцией (https://vk.com/dev/callback_api)
 
-# Параметры необходимые для запуска приложения находятся в файле resources/application.properties
+Параметры необходимые для запуска приложения находятся в файле resources/application.properties:
 
     societyName={Название созданного сообщества}
 
